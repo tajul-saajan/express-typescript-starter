@@ -1,0 +1,194 @@
+2024-10-10 23:56:33 info: =================================
+2024-10-10 23:56:33 info: ======= ENV: development =======
+2024-10-10 23:56:33 info: 🚀 App listening on the port 3000
+2024-10-10 23:56:33 info: =================================
+2024-10-10 23:57:30 info: =================================
+2024-10-10 23:57:30 info: ======= ENV: development =======
+2024-10-10 23:57:30 info: 🚀 App listening on the port 3000
+2024-10-10 23:57:30 info: =================================
+2024-10-10 17:58:12 info: =================================
+2024-10-10 17:58:12 info: ======= ENV: development =======
+2024-10-10 17:58:12 info: 🚀 App listening on the port 3000
+2024-10-10 17:58:12 info: =================================
+2024-10-10 17:58:40 info: =================================
+2024-10-10 17:58:40 info: ======= ENV: development =======
+2024-10-10 17:58:40 info: 🚀 App listening on the port 3000
+2024-10-10 17:58:40 info: =================================
+2024-10-10 18:11:52 info: =================================
+2024-10-10 18:11:52 info: ======= ENV: development =======
+2024-10-10 18:11:52 info: 🚀 App listening on the port 3000
+2024-10-10 18:11:52 info: =================================
+2024-10-10 18:12:09 error: [GET] /users >> StatusCode:: 500, Message:: 
+Invalid `this.user.findMany()` invocation in
+/app/src/services/users.service.ts:13:45
+
+  10 public user = new PrismaClient().user;
+  11 
+  12 public async findAllUser(): Promise<User[]> {
+→ 13   const allUser: User[] = await this.user.findMany(
+Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2024-10-10 18:12:09 info: [0mGET /users [31m500[0m 19.908 ms - 394[0m
+2024-10-10 18:12:59 error: [POST] /users >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-10 18:12:59 info: [0mPOST /users [33m400[0m 18.363 ms - 67[0m
+2024-10-10 18:13:06 error: [GET] /users >> StatusCode:: 500, Message:: 
+Invalid `this.user.findMany()` invocation in
+/app/src/services/users.service.ts:13:45
+
+  10 public user = new PrismaClient().user;
+  11 
+  12 public async findAllUser(): Promise<User[]> {
+→ 13   const allUser: User[] = await this.user.findMany(
+Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2024-10-10 18:13:06 info: [0mGET /users [31m500[0m 5.304 ms - 394[0m
+2024-10-10 18:13:51 error: [GET] /users >> StatusCode:: 500, Message:: 
+Invalid `this.user.findMany()` invocation in
+/app/src/services/users.service.ts:13:45
+
+  10 public user = new PrismaClient().user;
+  11 
+  12 public async findAllUser(): Promise<User[]> {
+→ 13   const allUser: User[] = await this.user.findMany(
+Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2024-10-10 18:13:51 info: [0mGET /users [31m500[0m 3.001 ms - 394[0m
+2024-10-10 18:14:08 error: [GET] /users >> StatusCode:: 500, Message:: 
+Invalid `this.user.findMany()` invocation in
+/app/src/services/users.service.ts:13:45
+
+  10 public user = new PrismaClient().user;
+  11 
+  12 public async findAllUser(): Promise<User[]> {
+→ 13   const allUser: User[] = await this.user.findMany(
+Can't reach database server at `localhost`:`3306`
+
+Please make sure your database server is running at `localhost`:`3306`.
+2024-10-10 18:14:08 info: [0mGET /users [31m500[0m 3.560 ms - 394[0m
+2024-10-10 18:17:10 info: =================================
+2024-10-10 18:17:10 info: ======= ENV: development =======
+2024-10-10 18:17:10 info: 🚀 App listening on the port 3000
+2024-10-10 18:17:10 info: =================================
+2024-10-10 18:20:16 info: =================================
+2024-10-10 18:20:16 info: ======= ENV: development =======
+2024-10-10 18:20:16 info: 🚀 App listening on the port 3000
+2024-10-10 18:20:16 info: =================================
+2024-10-10 18:20:46 info: =================================
+2024-10-10 18:20:46 info: ======= ENV: development =======
+2024-10-10 18:20:46 info: 🚀 App listening on the port 3000
+2024-10-10 18:20:46 info: =================================
+2024-10-10 18:20:56 info: =================================
+2024-10-10 18:20:56 info: ======= ENV: development =======
+2024-10-10 18:20:56 info: 🚀 App listening on the port 3000
+2024-10-10 18:20:56 info: =================================
+2024-10-10 18:20:58 info: =================================
+2024-10-10 18:20:58 info: ======= ENV: development =======
+2024-10-10 18:20:58 info: 🚀 App listening on the port 3000
+2024-10-10 18:20:58 info: =================================
+2024-10-10 18:22:54 info: =================================
+2024-10-10 18:22:54 info: ======= ENV: development =======
+2024-10-10 18:22:54 info: 🚀 App listening on the port 3000
+2024-10-10 18:22:54 info: =================================
+2024-10-10 18:23:07 info: =================================
+2024-10-10 18:23:07 info: ======= ENV: development =======
+2024-10-10 18:23:07 info: 🚀 App listening on the port 3000
+2024-10-10 18:23:07 info: =================================
+2024-10-10 18:23:29 info: =================================
+2024-10-10 18:23:29 info: ======= ENV: development =======
+2024-10-10 18:23:29 info: 🚀 App listening on the port 3000
+2024-10-10 18:23:29 info: =================================
+2024-10-10 18:27:06 info: =================================
+2024-10-10 18:27:06 info: ======= ENV: development =======
+2024-10-10 18:27:06 info: 🚀 App listening on the port 3000
+2024-10-10 18:27:06 info: =================================
+2024-10-10 18:27:15 info: =================================
+2024-10-10 18:27:15 info: ======= ENV: development =======
+2024-10-10 18:27:15 info: 🚀 App listening on the port 3000
+2024-10-10 18:27:15 info: =================================
+2024-10-10 18:28:28 info: =================================
+2024-10-10 18:28:28 info: ======= ENV: development =======
+2024-10-10 18:28:28 info: 🚀 App listening on the port 3000
+2024-10-10 18:28:28 info: =================================
+2024-10-10 18:28:44 info: =================================
+2024-10-10 18:28:44 info: ======= ENV: development =======
+2024-10-10 18:28:44 info: 🚀 App listening on the port 3000
+2024-10-10 18:28:44 info: =================================
+2024-10-10 18:29:24 info: =================================
+2024-10-10 18:29:24 info: ======= ENV: development =======
+2024-10-10 18:29:24 info: 🚀 App listening on the port 3000
+2024-10-10 18:29:24 info: =================================
+2024-10-10 18:29:50 info: =================================
+2024-10-10 18:29:50 info: ======= ENV: development =======
+2024-10-10 18:29:50 info: 🚀 App listening on the port 3000
+2024-10-10 18:29:50 info: =================================
+2024-10-10 18:29:59 info: =================================
+2024-10-10 18:29:59 info: ======= ENV: development =======
+2024-10-10 18:29:59 info: 🚀 App listening on the port 3000
+2024-10-10 18:29:59 info: =================================
+2024-10-10 18:31:56 info: =================================
+2024-10-10 18:31:56 info: ======= ENV: development =======
+2024-10-10 18:31:56 info: 🚀 App listening on the port 3000
+2024-10-10 18:31:56 info: =================================
+2024-10-10 18:40:25 info: =================================
+2024-10-10 18:40:25 info: ======= ENV: development =======
+2024-10-10 18:40:25 info: 🚀 App listening on the port 3000
+2024-10-10 18:40:25 info: =================================
+2024-10-10 18:44:06 info: =================================
+2024-10-10 18:44:06 info: ======= ENV: development =======
+2024-10-10 18:44:06 info: 🚀 App listening on the port 3000
+2024-10-10 18:44:06 info: =================================
+2024-10-10 18:50:48 info: =================================
+2024-10-10 18:50:48 info: ======= ENV: development =======
+2024-10-10 18:50:48 info: 🚀 App listening on the port 3000
+2024-10-10 18:50:48 info: =================================
+2024-10-10 18:51:04 info: =================================
+2024-10-10 18:51:04 info: ======= ENV: development =======
+2024-10-10 18:51:04 info: 🚀 App listening on the port 3000
+2024-10-10 18:51:04 info: =================================
+2024-10-10 18:51:35 info: =================================
+2024-10-10 18:51:35 info: ======= ENV: development =======
+2024-10-10 18:51:35 info: 🚀 App listening on the port 3000
+2024-10-10 18:51:35 info: =================================
+2024-10-10 18:52:45 info: =================================
+2024-10-10 18:52:45 info: ======= ENV: development =======
+2024-10-10 18:52:45 info: 🚀 App listening on the port 3000
+2024-10-10 18:52:45 info: =================================
+2024-10-10 18:54:21 info: =================================
+2024-10-10 18:54:21 info: ======= ENV: development =======
+2024-10-10 18:54:21 info: 🚀 App listening on the port 3000
+2024-10-10 18:54:21 info: =================================
+2024-10-10 18:54:42 info: =================================
+2024-10-10 18:54:42 info: ======= ENV: development =======
+2024-10-10 18:54:42 info: 🚀 App listening on the port 3000
+2024-10-10 18:54:42 info: =================================
+2024-10-10 18:54:59 info: =================================
+2024-10-10 18:54:59 info: ======= ENV: development =======
+2024-10-10 18:54:59 info: 🚀 App listening on the port 3000
+2024-10-10 18:54:59 info: =================================
+2024-10-10 18:55:19 info: =================================
+2024-10-10 18:55:19 info: ======= ENV: development =======
+2024-10-10 18:55:19 info: 🚀 App listening on the port 3000
+2024-10-10 18:55:19 info: =================================
+2024-10-10 18:55:31 info: =================================
+2024-10-10 18:55:31 info: ======= ENV: development =======
+2024-10-10 18:55:31 info: 🚀 App listening on the port 3000
+2024-10-10 18:55:31 info: =================================
+2024-10-10 18:56:12 info: =================================
+2024-10-10 18:56:12 info: ======= ENV: development =======
+2024-10-10 18:56:12 info: 🚀 App listening on the port 3000
+2024-10-10 18:56:12 info: =================================
+2024-10-10 18:56:22 info: =================================
+2024-10-10 18:56:22 info: ======= ENV: development =======
+2024-10-10 18:56:22 info: 🚀 App listening on the port 3000
+2024-10-10 18:56:22 info: =================================
+2024-10-10 18:59:56 info: =================================
+2024-10-10 18:59:56 info: ======= ENV: development =======
+2024-10-10 18:59:56 info: 🚀 App listening on the port 3000
+2024-10-10 18:59:56 info: =================================
+2024-10-10 19:00:06 info: =================================
+2024-10-10 19:00:06 info: ======= ENV: development =======
+2024-10-10 19:00:06 info: 🚀 App listening on the port 3000
+2024-10-10 19:00:06 info: =================================

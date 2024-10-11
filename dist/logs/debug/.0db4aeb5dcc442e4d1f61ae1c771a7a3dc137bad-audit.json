@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/portadmin/SWE/nodejs/express/demo/dist/logs/debug/.0db4aeb5dcc442e4d1f61ae1c771a7a3dc137bad-audit.json",
+    "files": [
+        {
+            "date": 1728579568528,
+            "name": "/home/portadmin/SWE/nodejs/express/demo/dist/logs/debug/2024-10-10.log",
+            "hash": "f907118c722a8312cd5bd7ee666c6e205f4d27c9bc3aa8898c4e092b4f227a5e"
+        }
+    ],
+    "hashType": "sha256"
+}

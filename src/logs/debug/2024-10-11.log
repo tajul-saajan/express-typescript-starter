@@ -1,0 +1,206 @@
+2024-10-11 09:42:24 info: =================================
+2024-10-11 09:42:24 info: ======= ENV: development =======
+2024-10-11 09:42:24 info: 🚀 App listening on the port 3000
+2024-10-11 09:42:24 info: =================================
+2024-10-11 09:49:35 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 09:49:35 info: [0mPOST /login [33m400[0m 13.828 ms - 67[0m
+2024-10-11 09:49:48 error: [POST] /login >> StatusCode:: 409, Message:: This email example@email.com was not found
+2024-10-11 09:49:48 info: [0mPOST /login [33m409[0m 34.176 ms - 56[0m
+2024-10-11 09:49:58 info: [0mPOST /signup [32m201[0m 77.132 ms - 138[0m
+2024-10-11 09:50:07 info: [0mPOST /login [32m200[0m 74.146 ms - 137[0m
+2024-10-11 09:50:42 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2024-10-11 09:50:42 info: [0mPOST /logout [33m404[0m 1.774 ms - 42[0m
+2024-10-11 09:51:01 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2024-10-11 09:51:01 info: [0mPOST /logout [33m404[0m 1.575 ms - 42[0m
+2024-10-11 09:55:46 info: =================================
+2024-10-11 09:55:46 info: ======= ENV: development =======
+2024-10-11 09:55:46 info: 🚀 App listening on the port 3000
+2024-10-11 09:55:46 info: =================================
+2024-10-11 09:56:15 info: =================================
+2024-10-11 09:56:15 info: ======= ENV: development =======
+2024-10-11 09:56:15 info: 🚀 App listening on the port 3000
+2024-10-11 09:56:15 info: =================================
+2024-10-11 09:57:42 info: =================================
+2024-10-11 09:57:42 info: ======= ENV: development =======
+2024-10-11 09:57:42 info: 🚀 App listening on the port 3000
+2024-10-11 09:57:42 info: =================================
+2024-10-11 09:58:01 info: =================================
+2024-10-11 09:58:01 info: ======= ENV: development =======
+2024-10-11 09:58:01 info: 🚀 App listening on the port 3000
+2024-10-11 09:58:01 info: =================================
+2024-10-11 16:02:48 info: [0mGET /users [32m200[0m 2.298 ms - 345[0m
+2024-10-11 16:03:37 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:03:37 info: [0mPOST /signup [33m400[0m 14.442 ms - 67[0m
+2024-10-11 16:04:30 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:04:30 info: [0mPOST /signup [33m400[0m 9.885 ms - 67[0m
+2024-10-11 16:05:56 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:05:56 info: [0mPOST /signup [33m400[0m 11.021 ms - 67[0m
+2024-10-11 16:07:16 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:07:16 info: [0mPOST /signup [33m400[0m 15.970 ms - 67[0m
+2024-10-11 10:07:25 info: [0mPOST /login [32m200[0m 86.432 ms - 137[0m
+2024-10-11 10:07:31 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2024-10-11 10:07:31 info: [0mPOST /logout [33m404[0m 3.130 ms - 42[0m
+2024-10-11 10:07:37 info: [0mPOST /login [32m200[0m 62.411 ms - 137[0m
+2024-10-11 10:07:40 info: [0mPOST /login [32m200[0m 62.295 ms - 137[0m
+2024-10-11 10:07:49 info: [0mPOST /login [32m200[0m 57.159 ms - 137[0m
+2024-10-11 10:07:54 info: [0mPOST /login [32m200[0m 65.744 ms - 137[0m
+2024-10-11 10:08:17 error: [POST] /login >> StatusCode:: 409, Message:: This email example11@email.com was not found
+2024-10-11 10:08:17 info: [0mPOST /login [33m409[0m 3.539 ms - 58[0m
+2024-10-11 16:13:05 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:13:05 info: [0mPOST /signup [33m400[0m 10.509 ms - 67[0m
+2024-10-11 10:20:36 info: =================================
+2024-10-11 10:20:36 info: ======= ENV: development =======
+2024-10-11 10:20:36 info: 🚀 App listening on the port 3000
+2024-10-11 10:20:36 info: =================================
+2024-10-11 16:20:55 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:20:55 info: [0mPOST /signup [33m400[0m 11.100 ms - 67[0m
+2024-10-11 10:21:14 info: [0mGET /users [32m200[0m 2.382 ms - 345[0m
+2024-10-11 10:21:14 info: [0mGET /users/1 [32m200[0m 0.630 ms - 133[0m
+2024-10-11 10:21:14 error: [POST] /users >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:14 info: [0mPOST /users [33m400[0m 14.260 ms - 67[0m
+2024-10-11 10:21:14 error: [PUT] /users/1 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:14 info: [0mPUT /users/1 [33m400[0m 3.951 ms - 67[0m
+2024-10-11 10:21:14 info: [0mDELETE /users/1 [32m200[0m 0.779 ms - 136[0m
+2024-10-11 10:21:15 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:15 info: [0mPOST /signup [33m400[0m 6.509 ms - 67[0m
+2024-10-11 10:21:15 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:15 info: [0mPOST /login [33m400[0m 3.457 ms - 67[0m
+2024-10-11 10:32:33 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:32:33 info: [0mPOST /signup [33m400[0m 10.467 ms - 67[0m
+2024-10-11 10:32:33 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:32:33 info: [0mPOST /login [33m400[0m 1.974 ms - 67[0m
+2024-10-11 10:34:13 info: [0mGET /users [32m200[0m 2.803 ms - 345[0m
+2024-10-11 10:34:14 info: [0mGET /users/1 [32m200[0m 0.608 ms - 133[0m
+2024-10-11 10:34:14 error: [POST] /users >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:34:14 info: [0mPOST /users [33m400[0m 15.685 ms - 67[0m
+2024-10-11 10:34:14 error: [PUT] /users/1 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:34:14 info: [0mPUT /users/1 [33m400[0m 6.386 ms - 67[0m
+2024-10-11 10:34:14 info: [0mDELETE /users/1 [32m200[0m 0.875 ms - 136[0m
+2024-10-11 10:36:20 info: [0mGET /users [32m200[0m 2.494 ms - 345[0m
+2024-10-11 10:36:20 info: [0mGET /users/1 [32m200[0m 0.774 ms - 133[0m
+2024-10-11 10:36:20 info: [0mPOST /users [32m201[0m 7.982 ms - 136[0m
+2024-10-11 10:36:20 error: [PUT] /users/1 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:36:20 info: [0mPUT /users/1 [33m400[0m 4.794 ms - 67[0m
+2024-10-11 10:36:20 info: [0mDELETE /users/1 [32m200[0m 0.491 ms - 136[0m
+2024-10-11 10:36:43 info: [0mGET /users [32m200[0m 4.117 ms - 345[0m
+2024-10-11 10:36:43 info: [0mGET /users/1 [32m200[0m 0.612 ms - 133[0m
+2024-10-11 10:36:43 info: [0mPOST /users [32m201[0m 8.202 ms - 136[0m
+2024-10-11 10:36:43 info: [0mPUT /users/1 [32m200[0m 1.873 ms - 136[0m
+2024-10-11 10:36:44 info: [0mDELETE /users/1 [32m200[0m 0.493 ms - 136[0m
+2024-10-11 10:36:56 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:36:56 info: [0mPOST /signup [33m400[0m 15.988 ms - 67[0m
+2024-10-11 10:36:56 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:36:56 info: [0mPOST /login [33m400[0m 4.696 ms - 67[0m
+2024-10-11 10:40:54 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:40:54 info: [0mPOST /signup [33m400[0m 14.983 ms - 67[0m
+2024-10-11 10:40:54 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:40:54 info: [0mPOST /login [33m400[0m 4.754 ms - 67[0m
+2024-10-11 10:42:03 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:42:03 info: [0mPOST /signup [33m400[0m 17.190 ms - 67[0m
+2024-10-11 10:42:03 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:42:03 info: [0mPOST /login [33m400[0m 4.668 ms - 67[0m
+2024-10-11 10:42:35 info: [0mPOST /signup [32m201[0m 64.312 ms - 135[0m
+2024-10-11 10:42:35 info: [0mPOST /login [32m200[0m 48.965 ms - 134[0m
+2024-10-11 10:43:54 info: [0mGET /users [32m200[0m 4.311 ms - 345[0m
+2024-10-11 10:43:55 info: [0mGET /users/1 [32m200[0m 0.774 ms - 133[0m
+2024-10-11 10:43:55 info: [0mPOST /users [32m201[0m 8.086 ms - 136[0m
+2024-10-11 10:43:55 info: [0mPUT /users/1 [32m200[0m 2.669 ms - 136[0m
+2024-10-11 10:43:55 info: [0mDELETE /users/1 [32m200[0m 0.460 ms - 136[0m
+2024-10-11 10:43:56 info: [0mPOST /signup [32m201[0m 49.948 ms - 135[0m
+2024-10-11 10:43:56 info: [0mPOST /login [32m200[0m 46.280 ms - 134[0m
+2024-10-11 16:47:50 info: [0mPOST /signup [32m201[0m 56.869 ms - 135[0m
+2024-10-11 16:47:50 info: [0mPOST /login [32m200[0m 52.815 ms - 134[0m
+2024-10-11 11:12:41 info: =================================
+2024-10-11 11:12:41 info: ======= ENV: development =======
+2024-10-11 11:12:41 info: 🚀 App listening on the port 3000
+2024-10-11 11:12:41 info: =================================
+2024-10-11 11:14:39 info: =================================
+2024-10-11 11:14:39 info: ======= ENV: development =======
+2024-10-11 11:14:39 info: 🚀 App listening on the port 3000
+2024-10-11 11:14:39 info: =================================
+2024-10-11 11:14:55 error: [POST] /login >> StatusCode:: 500, Message:: 
+Invalid `this.users.findUnique()` invocation in
+/app/src/services/auth.service.ts:24:45
+
+  21 }
+  22 
+  23 public async login(userData: CreateUserDto): Promise<{ cookie: string; findUser: User }> {
+→ 24   const findUser: User = await this.users.findUnique(
+The table `User` does not exist in the current database.
+2024-10-11 11:14:55 info: [0mPOST /login [31m500[0m 46.680 ms - 338[0m
+2024-10-11 11:17:14 info: [0mPOST /signup [32m201[0m 83.884 ms - 138[0m
+2024-10-11 11:17:22 error: [POST] /login >> StatusCode:: 409, Message:: This email example11@email.com was not found
+2024-10-11 11:17:22 info: [0mPOST /login [33m409[0m 4.557 ms - 58[0m
+2024-10-11 11:17:29 info: [0mPOST /login [32m200[0m 58.850 ms - 137[0m
+2024-10-11 11:54:11 info: =================================
+2024-10-11 11:54:11 info: ======= ENV: development =======
+2024-10-11 11:54:11 info: 🚀 App listening on the port 3000
+2024-10-11 11:54:11 info: =================================
+2024-10-11 11:54:29 info: =================================
+2024-10-11 11:54:29 info: ======= ENV: development =======
+2024-10-11 11:54:29 info: 🚀 App listening on the port 3000
+2024-10-11 11:54:29 info: =================================
+2024-10-11 11:54:35 info: =================================
+2024-10-11 11:54:35 info: ======= ENV: development =======
+2024-10-11 11:54:35 info: 🚀 App listening on the port 3000
+2024-10-11 11:54:35 info: =================================
+2024-10-11 11:54:50 info: =================================
+2024-10-11 11:54:50 info: ======= ENV: development =======
+2024-10-11 11:54:50 info: 🚀 App listening on the port 3000
+2024-10-11 11:54:50 info: =================================
+2024-10-11 11:55:47 info: =================================
+2024-10-11 11:55:47 info: ======= ENV: development =======
+2024-10-11 11:55:47 info: 🚀 App listening on the port 3000
+2024-10-11 11:55:47 info: =================================
+2024-10-11 11:57:51 info: =================================
+2024-10-11 11:57:51 info: ======= ENV: development =======
+2024-10-11 11:57:51 info: 🚀 App listening on the port 3000
+2024-10-11 11:57:51 info: =================================
+2024-10-11 11:58:11 info: =================================
+2024-10-11 11:58:11 info: ======= ENV: development =======
+2024-10-11 11:58:11 info: 🚀 App listening on the port 3000
+2024-10-11 11:58:11 info: =================================
+2024-10-11 11:58:50 info: =================================
+2024-10-11 11:58:50 info: ======= ENV: development =======
+2024-10-11 11:58:50 info: 🚀 App listening on the port 3000
+2024-10-11 11:58:50 info: =================================
+2024-10-11 11:58:54 info: =================================
+2024-10-11 11:58:54 info: ======= ENV: development =======
+2024-10-11 11:58:54 info: 🚀 App listening on the port 3000
+2024-10-11 11:58:54 info: =================================
+2024-10-11 11:59:31 info: =================================
+2024-10-11 11:59:31 info: ======= ENV: development =======
+2024-10-11 11:59:31 info: 🚀 App listening on the port 3000
+2024-10-11 11:59:31 info: =================================
+2024-10-11 11:59:34 info: =================================
+2024-10-11 11:59:34 info: ======= ENV: development =======
+2024-10-11 11:59:34 info: 🚀 App listening on the port 3000
+2024-10-11 11:59:34 info: =================================
+2024-10-11 11:59:46 info: =================================
+2024-10-11 11:59:46 info: ======= ENV: development =======
+2024-10-11 11:59:46 info: 🚀 App listening on the port 3000
+2024-10-11 11:59:46 info: =================================
+2024-10-11 12:01:43 info: =================================
+2024-10-11 12:01:43 info: ======= ENV: development =======
+2024-10-11 12:01:43 info: 🚀 App listening on the port 3000
+2024-10-11 12:01:43 info: =================================
+2024-10-11 12:01:58 info: =================================
+2024-10-11 12:01:58 info: ======= ENV: development =======
+2024-10-11 12:01:58 info: 🚀 App listening on the port 3000
+2024-10-11 12:01:58 info: =================================
+2024-10-11 12:02:10 info: =================================
+2024-10-11 12:02:10 info: ======= ENV: development =======
+2024-10-11 12:02:10 info: 🚀 App listening on the port 3000
+2024-10-11 12:02:10 info: =================================
+2024-10-11 12:02:13 info: =================================
+2024-10-11 12:02:13 info: ======= ENV: development =======
+2024-10-11 12:02:13 info: 🚀 App listening on the port 3000
+2024-10-11 12:02:13 info: =================================
+2024-10-11 12:03:47 info: =================================
+2024-10-11 12:03:47 info: ======= ENV: development =======
+2024-10-11 12:03:47 info: 🚀 App listening on the port 3000
+2024-10-11 12:03:47 info: =================================
+2024-10-11 12:07:43 info: =================================
+2024-10-11 12:07:43 info: ======= ENV: development =======
+2024-10-11 12:07:43 info: 🚀 App listening on the port 3000
+2024-10-11 12:07:43 info: =================================

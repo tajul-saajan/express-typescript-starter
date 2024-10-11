@@ -1,0 +1,49 @@
+2024-10-11 09:49:35 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 09:49:48 error: [POST] /login >> StatusCode:: 409, Message:: This email example@email.com was not found
+2024-10-11 09:50:42 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2024-10-11 09:51:01 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2024-10-11 09:55:39 error: uncaughtException: Cannot read properties of undefined (reading 'signUp')
+TypeError: Cannot read properties of undefined (reading 'signUp')
+    at AuthRoute.initializeRoutes (/app/src/routes/auth.route.ts:18:91)
+    at new AuthRoute (/app/src/routes/auth.route.ts:14:10)
+    at Object.<anonymous> (/app/src/server.ts:8:39)
+    at Module._compile (node:internal/modules/cjs/loader:1546:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1691:10)
+    at Object.require.extensions.<computed> [as .ts] (/app/node_modules/ts-node/src/index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:1317:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1127:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:315:14)
+2024-10-11 16:03:37 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:04:30 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:05:56 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:07:16 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:07:31 error: [POST] /logout >> StatusCode:: 404, Message:: Authentication token missing
+2024-10-11 10:08:17 error: [POST] /login >> StatusCode:: 409, Message:: This email example11@email.com was not found
+2024-10-11 16:13:05 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 16:20:55 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:14 error: [POST] /users >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:14 error: [PUT] /users/1 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:15 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:21:15 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:32:33 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:32:33 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:34:14 error: [POST] /users >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:34:14 error: [PUT] /users/1 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:36:20 error: [PUT] /users/1 >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:36:56 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:36:56 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:40:54 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:40:54 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:42:03 error: [POST] /signup >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 10:42:03 error: [POST] /login >> StatusCode:: 400, Message:: password must be longer than or equal to 9 characters
+2024-10-11 11:14:55 error: [POST] /login >> StatusCode:: 500, Message:: 
+Invalid `this.users.findUnique()` invocation in
+/app/src/services/auth.service.ts:24:45
+
+  21 }
+  22 
+  23 public async login(userData: CreateUserDto): Promise<{ cookie: string; findUser: User }> {
+→ 24   const findUser: User = await this.users.findUnique(
+The table `User` does not exist in the current database.
+2024-10-11 11:17:22 error: [POST] /login >> StatusCode:: 409, Message:: This email example11@email.com was not found

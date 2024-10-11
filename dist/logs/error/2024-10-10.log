@@ -1,0 +1,282 @@
+2024-10-10 15:15:28 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:16:54 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:16:56 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:23:15 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:23:16 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:24:02 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:24:04 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:37:06 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:39:13 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:41:57 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:44:14 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/services/auth.service.ts
+- /app/src/controllers/auth.controller.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/services/auth.service.ts:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 15:44:32 error: uncaughtException: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/middlewares/auth.middleware.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+Error: Cannot find module '@exceptions/httpException'
+Require stack:
+- /app/src/middlewares/auth.middleware.ts
+- /app/src/routes/auth.route.ts
+- /app/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:985:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/app/node_modules/@cspotcode/source-map-support/source-map-support.js:811:30)
+    at Function.Module._resolveFilename (/app/node_modules/tsconfig-paths/src/register.ts:115:36)
+    at Function.Module._load (node:internal/modules/cjs/loader:833:27)
+    at Module.require (node:internal/modules/cjs/loader:1057:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (/app/src/middlewares/auth.middleware.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1155:14)
+    at Module.m._compile (/app/node_modules/ts-node/src/index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1209:10)
+2024-10-10 22:59:28 error: uncaughtException: Cannot find module '../exceptions/httpException'
+Require stack:
+- /home/portadmin/SWE/nodejs/express/demo/dist/middlewares/auth.middleware.js
+- /home/portadmin/SWE/nodejs/express/demo/dist/routes/auth.route.js
+- /home/portadmin/SWE/nodejs/express/demo/dist/server.js
+Error: Cannot find module '../exceptions/httpException'
+Require stack:
+- /home/portadmin/SWE/nodejs/express/demo/dist/middlewares/auth.middleware.js
+- /home/portadmin/SWE/nodejs/express/demo/dist/routes/auth.route.js
+- /home/portadmin/SWE/nodejs/express/demo/dist/server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1142:15)
+    at Module._load (node:internal/modules/cjs/loader:983:27)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)
+    at require (node:internal/modules/helpers:179:18)
+    at Object.<anonymous> (/home/portadmin/SWE/nodejs/express/demo/dist/middlewares/auth.middleware.js:14:24)
+    at Module._compile (node:internal/modules/cjs/loader:1368:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1426:10)
+    at Module.load (node:internal/modules/cjs/loader:1205:32)
+    at Module._load (node:internal/modules/cjs/loader:1021:12)
+    at Module.require (node:internal/modules/cjs/loader:1230:19)

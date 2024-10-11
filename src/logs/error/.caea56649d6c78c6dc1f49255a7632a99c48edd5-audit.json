@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/portadmin/SWE/nodejs/express/demo/src/logs/error/.caea56649d6c78c6dc1f49255a7632a99c48edd5-audit.json",
+    "files": [
+        {
+            "date": 1728579600934,
+            "name": "/home/portadmin/SWE/nodejs/express/demo/src/logs/error/2024-10-10.log",
+            "hash": "165c8d4f033d302e340d4b0d1f72b1cbccd4358f58050a8705626531e25e817d"
+        },
+        {
+            "date": 1728640933677,
+            "name": "/home/portadmin/SWE/nodejs/express/demo/src/logs/error/2024-10-11.log",
+            "hash": "cf686deef7a21feca507ce96315e41dd1a4ec84746227a0fcb60282bbb241ba9"
+        }
+    ],
+    "hashType": "sha256"
+}
